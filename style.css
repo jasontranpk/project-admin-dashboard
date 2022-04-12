@@ -150,6 +150,7 @@ li{
     justify-content: right;
     gap: 15px;
     margin-top: 20px;
+    align-items: center;
 }
 .item-title{
     font-weight: 550;
